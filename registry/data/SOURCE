@@ -1,0 +1,9 @@
+metadataRegistry.json
+  @salesforce/source-deploy-retrieve 13.13.0, lib/src/registry/metadataRegistry.json
+  https://registry.npmjs.org/@salesforce/source-deploy-retrieve/-/source-deploy-retrieve-13.13.0.tgz
+  License: Apache-2.0 (LICENSE-source-deploy-retrieve.txt)
+
+internalRegistry.json
+  sfdx-git-delta v7.7.2, src/metadata/internalRegistry.ts, converted to JSON.
+  An explicit undefined is written as null.
+  License: MIT (../../LICENSE-sfdx-git-delta.md)
